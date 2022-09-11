@@ -1,14 +1,22 @@
 .bean {
     background-color: bisque;
     color: blueviolet;
+    font-size: 30px;
 }
 
 .potato {
     background-color: chocolate;
-    color: darkgoldenrod;
+    color: black;
+    font-size: 30px;
 }
 
 .eggs {
     background-color: darkcyan;
-    color: forestgreen;
+    color: red;
+    font-size: 30px;
 }
+
+body {
+    background-color: moccasin;
+}
+

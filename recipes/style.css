@@ -1,0 +1,21 @@
+.potato_body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: grey;
+}
+
+.potato_supplies, .steps, .supplies {
+    background-color: blueviolet;
+    color: yellow;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.list {
+    background-color: antiquewhite;
+    color: saddlebrown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
