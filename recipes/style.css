@@ -40,3 +40,24 @@
     width: 200px;
     height: auto;
 }
+
+.bean_main {
+    background-color: lavender;
+}
+.bean_body, .bean_body, .bean_supplies, .bean_list, .bean_list2, .bean_steps{
+    color: slategray;
+    font-family: cursive;
+    font-size: 30px;
+
+}
+
+.bean_title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color: brown;
+}
+
+.bean_photo {
+    width: 300px;
+    height: auto;
+}
