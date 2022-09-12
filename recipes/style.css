@@ -2,7 +2,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body {
+.potato_main {
     background-color: grey;
 }
 
@@ -18,4 +18,25 @@ body {
     color: saddlebrown;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
+}
+
+.potato_photo {
+    width: 200px;
+    height: auto;
+}
+
+.eggs_main {
+    background-color: blanchedalmond;
+}
+
+.eggs_steps, .eggs_supplies, .eggs_process, .eggs_list, .eggs_body {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: olive;
+
+}
+
+.eggs_photo {
+    width: 200px;
+    height: auto;
 }
